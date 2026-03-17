@@ -1,2 +1,3 @@
 # mohan-demo
-my first repository
+this is my first repository.
+Author - MOHAN KUMAR M R
